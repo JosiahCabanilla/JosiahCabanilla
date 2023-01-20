@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hi there welcome to my repository! 👋
+### My name is Josiah Cabanilla and this is me!
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently majoring in Web Development for an Associates Degree!
 - 📫 If you're reading this you can reach me at josiah.cabanilla@student.northampton.edu !
-- :basketball: :soccer: I love basketball, I've been playign since I was in middle school. I also have been getting into soccer after last year's World Cup.
-- :round_pushpin: Born and raised in the Lehigh Valley lol.
+- :basketball: :soccer: **I love basketball**, I've been playing since I was in middle school. I also have been getting into soccer after last year's World Cup.
+- - Blazers/PSG
+- :round_pushpin: Born and raised in the Lehigh Valley.
 <!--
 **JosiahCabanilla/JosiahCabanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
